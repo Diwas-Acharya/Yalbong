@@ -1,0 +1,33 @@
+:root {
+  /* Primary Colors */
+  --primary-color: #e67e22;        /* Medium Orange - main brand color */
+  --secondary-color: #f39c12;      /* Light Orange - complementary tone */
+  --accent-color: #d35400;         /* Deep Orange - accent color */
+
+  /* Background Colors */
+  --bg-light: #fff9f4;             /* Very Light Orange-tinted White */
+  --bg-dark: #f39c12;              /* Dark Orange */
+  --bg-section: #fdf2e9;           /* Pale Orange - section backgrounds */
+
+  /* Text Colors */
+  --text-dark: #2c3e50;            /* Dark Blue-Gray - for readability */
+  --text-light: #ffffff;           /* White */
+  --text-muted: #95a5a6;           /* Gray - for secondary text */
+
+  /* Border Colors */
+  --border-color: #f8d9bc;         /* Light Orange Border */
+
+  /* Social Media Colors */
+  --whatsapp-color: #25D366;
+  --instagram-color: #E1306C;
+  --facebook-color: #3b5998;
+
+  /* Font Families */
+  --font-primary: 'Poppins', sans-serif;
+  --font-secondary: 'Playfair Display', serif;
+
+  /* Other Theme Variables */
+  --border-radius: 8px;
+  --box-shadow: 0 4px 12px rgba(230, 126, 34, 0.15);
+  --transition: all 0.3s ease;
+}
